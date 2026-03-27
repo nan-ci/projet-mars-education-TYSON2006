@@ -1,5 +1,13 @@
-<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://embed.figma.com/proto/6jnJ7QDUmMKawx455x1Jgc/Untitled?node-id=42-64&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=42%3A64&embed-host=share" allowfullscreen></iframe>
+lien de la maquette figma :
+
+https://www.figma.com/proto/6jnJ7QDUmMKawx455x1Jgc/Untitled?node-id=1-2&t=NgkqZCrlAg9ajfUA-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=42%3A64
+
+lien du depot Github :
+
+https://github.com/TYSON2006/MyWay
+
+
+lien du Github Page :
 
 https://tyson2006.github.io/MyWay/index.html
 
-https://github.com/TYSON2006/MyWay
